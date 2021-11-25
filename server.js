@@ -1,5 +1,5 @@
 //<!--File: Assignment2 Name: Petra Jeffers Student number: 301130225 Date: November 25, 2021-->//
-#!/usr/bin/env node
+
 
 /**
  * Module dependencies.
